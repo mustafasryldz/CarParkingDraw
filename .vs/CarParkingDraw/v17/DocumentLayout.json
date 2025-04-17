@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Unity Projects\\CarParkingDraw\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2CF75A61-EECE-2C77-8FD9-C481624ED85C}|Assembly-CSharp.csproj|c:\\unity projects\\carparkingdraw\\assets\\scripts\\admanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CF75A61-EECE-2C77-8FD9-C481624ED85C}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\admanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AdManager.cs",
+              "DocumentMoniker": "C:\\Unity Projects\\CarParkingDraw\\Assets\\Scripts\\AdManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\AdManager.cs",
+              "ToolTip": "C:\\Unity Projects\\CarParkingDraw\\Assets\\Scripts\\AdManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\AdManager.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAQwBsAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T13:59:52.272Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

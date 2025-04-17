@@ -1,0 +1,19 @@
+# ninja log v5
+31	1802	7663629383460142	GameActivity/CMakeFiles/game.dir/UGAEntry.cpp.o	f0080c8edf09217d
+59	1944	7663629384963202	GameActivity/CMakeFiles/game.dir/UGASoftKeyboard.cpp.o	7e752b5c1dd863b8
+14	1813	7663629383535819	GameActivity/CMakeFiles/game.dir/UGAConfiguration.cpp.o	50f958eb223a9ffa
+39	1816	7663629383394364	GameActivity/CMakeFiles/game.dir/UGAInputKeyEvent.cpp.o	5712a8781951beec
+6	1892	7663629384435629	GameActivity/CMakeFiles/game.dir/UGADebug.cpp.o	ee8eeaa0f716acdf
+47	1828	7663629383709134	GameActivity/CMakeFiles/game.dir/UGAInputMotionEvent.cpp.o	8c5f5f6e981cffb4
+22	2127	7663629386781830	GameActivity/CMakeFiles/game.dir/UGAInput.cpp.o	e5e0adc1823d01a6
+0	2234	7663629387807557	GameActivity/CMakeFiles/game.dir/UGAApplication.cpp.o	f27de44d07494f9e
+2234	2389	7663629389457376	C:/Unity Projects/CarParking/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/z5y6t1w7/obj/arm64-v8a/libgame.so	67d11b49964343d1
+53	2934	7664391164603756	GameActivity/CMakeFiles/game.dir/UGAInputKeyEvent.cpp.o	5712a8781951beec
+44	2972	7664391164936634	GameActivity/CMakeFiles/game.dir/UGAInputMotionEvent.cpp.o	8c5f5f6e981cffb4
+30	3004	7664391165393828	GameActivity/CMakeFiles/game.dir/UGAEntry.cpp.o	f0080c8edf09217d
+23	3090	7664391166324311	GameActivity/CMakeFiles/game.dir/UGADebug.cpp.o	ee8eeaa0f716acdf
+67	3115	7664391166450030	GameActivity/CMakeFiles/game.dir/UGASoftKeyboard.cpp.o	7e752b5c1dd863b8
+17	3118	7664391166324311	GameActivity/CMakeFiles/game.dir/UGAConfiguration.cpp.o	50f958eb223a9ffa
+37	3336	7664391168802391	GameActivity/CMakeFiles/game.dir/UGAInput.cpp.o	e5e0adc1823d01a6
+10	3588	7664391170991666	GameActivity/CMakeFiles/game.dir/UGAApplication.cpp.o	f27de44d07494f9e
+3591	4165	7664391175881811	C:/Unity Projects/CarParking/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/z5y6t1w7/obj/arm64-v8a/libgame.so	67d11b49964343d1
